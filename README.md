@@ -48,7 +48,6 @@ Allergy response number at the end of the test
 *allergen includes:[ SHELLFISH, FISH, MILK, SOY, EGG, WHEAT, PEANUT, SESAME, WALNUT, PECAN, PISTACH, ALMOND, BRAZIL, HAZELNUT, CASHEW ]
 
 
-          [allergen*]_ALG_START/[allergen*]_ALG_END Columns:
  
 Allergy response number ( IgE reactivity level)  is the measure that  shows the level of antibodies produced after being exposed to the allergen. It shows how strong your immune system reacts to the allergen.The numbers in the [allergen*]_START_YEAR and [allergen*]_END_YEAR   columns are interpreted according to the following table:
 
